@@ -27,7 +27,7 @@
 
 ## 備份網址
 
-  * [Backbone](https://gitbook.fu-ming.tw/backbone/_book/index.html)
+  * [Backbone](https://gitbook.fu-ming.tw/backbone/index.html)
 
 ## 更新 
 
