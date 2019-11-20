@@ -1,34 +1,23 @@
 # Backbone
 
-第一代 SPA 框架,
-我的 gitbook 文檔練習.
-
-## Summary
+## 目錄
 
 * Backbone
-  * [* Events](backbone.events.md)
-  * [* Model](backbone.model.md)
-  * [* Model Extend](backbone.model.extend.md)
-  * [* Collection](backbone.collection.md)
-  * [* Collection Extend](backbone.collection.extend.md)
-  * [* Router](backbone.router.md)
-  * [* History](backbone.history.md)
-  * [* Sync](backbone.sync.md)
-  * [* View](backbone.view.md)
-  * [* Utility](backbone.utility.md)
+  * [Events](doc-backbone/events.md)
+  * [Model](doc-backbone/model.md)
+  * [Model Extend](doc-backbone/model.extend.md)
+  * [Collection](doc-backbone/collection.md)
+  * [Collection Extend](doc-backbone/collection.extend.md)
+  * [Router](doc-backbone/router.md)
+  * [History](doc-backbone/history.md)
+  * [Sync](doc-backbone/sync.md)
+  * [View](doc-backbone/view.md)
+  * [Utility](doc-backbone/utility.md)
 
 * Underscore
-  * [* Collections](underscore.collections.md)
-  * [* Arrays](underscore.arrays.md)
-  * [* Functions](underscore.functions.md)
-  * [* Objects](underscore.objects.md)
-  * [* Utility](underscore.utility.md)
-  * [* Chaining](underscore.chaining.md)
-
-## 備份網址
-
-  * [Backbone](https://gitbook.fu-ming.tw/backbone/index.html)
-
-## 更新 
-
-*date : 2019-02-05*
+  * [Collections](doc-underscore/collections.md)
+  * [Arrays](doc-underscore/arrays.md)
+  * [Functions](doc-underscore/functions.md)
+  * [Objects](doc-underscore/objects.md)
+  * [Utility](doc-underscore/utility.md)
+  * [Chaining](doc-underscore/chaining.md)
